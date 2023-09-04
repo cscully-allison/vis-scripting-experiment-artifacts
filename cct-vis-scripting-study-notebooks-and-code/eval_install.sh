@@ -1,0 +1,1 @@
+python hatchet/hatchet/vis/static_fixer.py
